@@ -3,7 +3,7 @@
 🚀 **trainee | Python**  
 Brazil
 
-🎓 Computer Science student | 🐍 Python & Backend Developer | Building projects with FastAPI, SQLAlchemy, Pandas & matplobt
+🎓 Computer Science student | 🐍 Python & Backend Developer | Building projects with FastAPI, SQLAlchemy, Pandas & matplotlib
 
 ---
 
